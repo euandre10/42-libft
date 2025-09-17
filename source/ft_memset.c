@@ -1,7 +1,7 @@
 #include "libft.h"
 
 /*
-** @brief Set all values appointed by 's' to 'n'.
+** @brief Set all values to appointed by 's' to 'c' for 'n' bytes.
 ** @param 's' Pointer to the memory block that will be changed.
 ** @param 'c' Any character that will be setted as the value of the selected memory block.
 ** @param 'n' Number of bytes that will be changed.
