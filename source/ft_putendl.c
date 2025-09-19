@@ -7,7 +7,7 @@
 
 void ft_putendl(char const *s) {
 	if (!s) return;
-	unsigned int i = 0;
+	char new_line = '\n';
 	ft_putstr(s);
-	write(1, '\n', 1);
+	write(1, &new_line, 1);
 }

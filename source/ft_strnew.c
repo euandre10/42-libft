@@ -9,7 +9,7 @@
 
 char *ft_strnew(size_t size) {
 	char *new_str = (char *)malloc(size);
-	char *tmp'= new_str;
+	char *tmp = new_str;
 	while (*tmp) *tmp++ = '\0';
 	return new_str;
 }

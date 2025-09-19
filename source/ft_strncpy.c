@@ -10,7 +10,6 @@
 
 char *ft_strncpy(char *dest, const char *src, size_t n) {
 	if (!src) return NULL;
-	size_t src_len = ft_strlen(src);
 	char *tmp = dest;
 	while (n--) {
 		if (*src == '\0') *tmp++ = '\0';

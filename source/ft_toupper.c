@@ -7,5 +7,5 @@
 */
 
 int ft_toupper(int c) {
-	return (c >= 'a' && c <= 'z') ? c + 32 : return 0;
+	return (c >= 'a' && c <= 'z') ? c + 32 : 0;
 }

@@ -1,15 +1,7 @@
 #include <stdlib.h>
 #include <unistd.h>
-#include <string.h>
 
-/* Typedefs and definitions */
-typedef struct s_list {
-	void *content;
-	size_t content_size;
-	struct s_list *next;
-} t_list;
-
-/* V.2 - Libc functions (Part 1) */
+/* Libc functions - Part 1 */
 void	*ft_memset		(void *s, int c, size_t n);
 void	ft_bzero		(void *s, size_t n);
 void	*ft_memcpy		(void *dest, const void *src, size_t n);
@@ -38,7 +30,7 @@ int     ft_isprint		(int c);
 int     ft_toupper		(int c);
 int     ft_tolower		(int c);
 
-/* V.3 - Additional functions (Part 2) */
+/* Additional functions - Part 2 */
 void	*ft_memalloc	(size_t size);
 void	ft_memdel		(void **ap);
 char	*ft_strnew		(size_t size);
@@ -63,5 +55,3 @@ void 	ft_putchar_fd	(char c, int fd);
 void	ft_putstr_fd	(char const *s, int fd);
 void 	ft_putendl_fd	(char const *s, int fd);
 void	ft_putnbr_fd	(int n, int fd);
-
-/* Bonus part - Linked Lists structures and functions */

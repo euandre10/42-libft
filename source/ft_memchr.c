@@ -9,7 +9,7 @@
 */
 
 void *ft_memchr(const void *s, int c, size_t n) {
-	unsigned char *pointer = s;
+	const unsigned char *pointer = s;
 	unsigned char ch = c;
 	while (n--) {
 		if (*pointer == ch) return (void *)pointer;

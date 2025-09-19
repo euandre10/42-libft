@@ -11,7 +11,7 @@ char *ft_strrchr(const char *s, int c) {
 	size_t s_len = ft_strlen(s);
 	const char *pointer = s + s_len;
 	while (*pointer) {
-		if (*pointer == c) return pointer;
+		if (*pointer == c) return (char *)pointer;
 		pointer--;
 	}
 	return NULL;
