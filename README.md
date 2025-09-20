@@ -3,18 +3,18 @@
 ## Some notes first..
 ⚠️ - I am not officially participating in any 42 courses nor have participated in anytime. <br>
 ⚠️ - I do not recommend using this repository or any of its material as an example for the real 42 projects.<br>
-⚠️ - I followed most of the rules specified in the project PDF, but here and there i changed some things to my way.<br>
+⚠️ - I followed most of the rules specified in the project PDF, but here and there i changed some things.<br>
 ⚠️ - By the way, i found the project PDF and all its other files here in Github.<br>
-⚠️ - I do not own anything here. All copyrights/ownership of the files and projects goes to 42.<br> 
-🟩 - Last but not least: English is not my first language (as you will see 😅), but we try it anyway. 😉
+⚠️ - Maybe it's obvious, but anyway: I do not own anything here. All copyrights/ownership of the files and projects goes to 42.<br> 
 
 If needed you can contact me clicking <a href="https://github.com/euandre10">here</a>.<br>
 
 ## About this repository.
 
-🧑‍💻 Last update: 20/09/25.<br>
-🇧🇷 For the portuguese version, click <a href="">here</a>.<br>
-📄 For the project file, click <a href="">here</a>.<br>
+> 🧑‍💻 Last update: 20/09/25.<br>
+> 🇧🇷 For the portuguese version, click <a href="https://github.com/euandre10/42-libft/blob/master/docs/README-ptBR.md">here</a>.<br>
+> 📄 For the project PDF file, click <a href="https://github.com/euandre10/42-libft/blob/master/pdf/libft.pdf">here</a>.<br><br>
+🌐 You can clone this repository using the following command:<br>```git clone https://github.com/euandre10/42-libft.git```<br>
 
 I learned about <b>42</b> and their projects in this <a href="https://youtu.be/oUPaJxk6TZ0?t=2778">video</a> from <b>Fábio Akita</b> (which i highly recommend, even if you don't speak portuguese!) and got instantly curious about it. Unfortunately i cannot make it into the 42 in SP or RJ, mainly due to logistical and financial dificulties. But after some searches here and there on the internet, i was lucky enough to found some of the materials in their students repositories here in Github and just started to practice and do the exercises right away. <br>
 
